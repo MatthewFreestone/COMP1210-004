@@ -4,7 +4,7 @@
  * @author Matthew Freestone
  * @version 8/23/2020
  */
-public class CourseInfo {
+public class format {
 
    /**
     * Prints course information to std output.
