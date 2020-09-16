@@ -1,1 +1,8 @@
+#Visual studio internal files
 *.vscode
+
+#compiled java
+*.class
+
+#javadoc
+*_doc/
