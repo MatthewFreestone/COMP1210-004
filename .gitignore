@@ -6,3 +6,6 @@
 
 #javadoc
 *_doc/
+
+#junit and such
+lib/
